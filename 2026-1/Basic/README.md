@@ -9,7 +9,7 @@
 - 주 1회, 대면으로 진행
 - 멘토링이 아닌 전체 참여 방식
 
-## 커리큘럼
+## 커리큘럼  
 | | |
 | --- | --- |
 | 1 주차 | [OT](https://blog.encrypted.gg/921?category=773649) / [기초 코드 작성 요령 1](https://blog.encrypted.gg/922?category=773649) / [기초 코드 작성 요령 2](https://blog.encrypted.gg/923?category=773649) |
