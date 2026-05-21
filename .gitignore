@@ -1,1 +1,25 @@
 .vscode/
+
+# C/C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.exp
+*.lib
+*.ilk
+*.pdb
+
+# Competitive Programming Helper (CPH) cache
+.cph/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
